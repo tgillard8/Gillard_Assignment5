@@ -1,4 +1,4 @@
-##PRIME NUMBER GENERATOR SCRIPT
+## PRIME NUMBER GENERATOR SCRIPT
 
 ### THE PURPOSE OF THIS PRORGAM
 ### This program is designed to identify prime numbers on a scale of 2-100. 
